@@ -38,7 +38,7 @@ import {
 
 export const feedback = [
   {
-    id: "feedback-1",
+    id: "0",
     content:
       "Money is only a tool. It can make almost everything you wish, but it can not replace biodiversity.",
     name: "Herman Jensen",
@@ -46,11 +46,12 @@ export const feedback = [
 
     title2: "11111 ",
     content2: "1111",
+    open: false,
 
     img: people01,
   },
   {
-    id: "feedback-2",
+    id: "1",
     content:
       "Because of businesses that make a lot of money, biodiversity is decreasing.",
     name: "Steve Mark",
@@ -58,11 +59,12 @@ export const feedback = [
 
     title2: "22222 ",
     content2: "22222",
+    open: false,
 
     img: people02,
   },
   {
-    id: "feedback-3",
+    id: "2",
     content:
       "We need a lot of money to get rid of only one species.",
     name: "Kenn Gallagher",
@@ -70,6 +72,7 @@ export const feedback = [
 
     title2: "333333 ",
     content2: "33333",
+    open: false,
 
     img: people03,
   },

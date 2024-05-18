@@ -1,4 +1,5 @@
-const Modal = ({ isOpen, onClose, title, content }) => {
+
+const Modal = ({ isOpen, onClose, title, content}) => {
     return (
         <>
             {isOpen && (
@@ -7,7 +8,7 @@ const Modal = ({ isOpen, onClose, title, content }) => {
                     <div className="modal-border">
                         <div className="modal-content border border-gray-500 bg-gray-900 p-8 rounded shadow-md min-w-[600px] min-h-[400px] relative">
                             <h2 className="text-xl font-bold text-gray-300">{title}</h2>
-                            <button onClick={onClose} className="absolute top-0 right-0 m-4 text-gray-300">
+                            <button onClick={onClose} className="absolute top-0 right-0 m-4  text-gray-300">
                                 Close
                             </button>
                             <div className="mt-8">
