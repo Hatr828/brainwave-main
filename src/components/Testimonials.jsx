@@ -19,7 +19,7 @@ const Testimonials = () => {
     <>
       <section style={{
         display: 'flex', justifyContent: 'center', alignItems: 'center',
-        height: '100vh', marginLeft: '11em'
+        height: '100vh', marginLeft: '7.5em'
       }}
         id="clients"
         className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}>
@@ -37,7 +37,7 @@ const Testimonials = () => {
           </div>
         </div>
 
-        <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]">
+        <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[0]">
           {feedback.map((card) =>
             <>
               <FeedbackCard key={card.id} id={card.id} {...card} />

@@ -81,7 +81,14 @@ import people03 from "./people03.png";
 
 import quotes from "./quotes.svg";
 
+import forestBKudzu from "./ForestBKudzu.jpg"
+import forestAKudzu from "./ForestAKudzu.jpg"
+import arrow from "./Arrow.png"
+
 export {
+  forestAKudzu,
+  forestBKudzu,
+  arrow,
   quotes,
   brainwave,
   people01,
