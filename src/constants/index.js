@@ -44,8 +44,8 @@ export const feedback = [
     name: "Herman Jensen",
     title: "Financial Advisor",
 
-    title2: "11111 ",
-    content2: "1111",
+    title2: "Plan Of Improving Biodiversity",
+    content2: "Even tho we can't ressurect our lost biodiversity,but we can balance it back by using our tools and money that our country has. With equipmment that we have, we can improve the population of Kudzu and make life easier for biodiversity of the country",
     open: false,
 
     img: people01,
@@ -57,8 +57,8 @@ export const feedback = [
     name: "Steve Mark",
     title: "Environmentalist",
 
-    title2: "22222 ",
-    content2: "22222",
+    title2: "Solutions",
+    content2: "The man power could appear from the scheme as europeans do, when someone gets the ticket, they have a choice, pay for it or cut down Cow Parsnip, here is gotta be the same, but with the kudzu. The Cons of it is that we still need professionals that will explain process of cutting down kudzu which will require quite a lot of money. The second problem is the amount of equipment needed, gardening equipment is not the cheapest, also we are looking forward to use biology against biology and use fungi to fight kudzu which is specifically was  but economy of most of states is increasing constantly, but also there is inflation which affects the project.",
     open: false,
 
     img: people02,
@@ -70,8 +70,8 @@ export const feedback = [
     name: "Kenn Gallagher",
     title: "Resource Manager:",
 
-    title2: "333333 ",
-    content2: "33333",
+    title2: "Budget",
+    content2: "For this project expected total budget is 3 billion dollars over 12 years of work, each year by 250 million dollars to get rid of one of most destructive species in our biodiversity beside us. This money will include all of the equipment, work of professionals and lectors, with the average price of 450 dollars per cleaned acre of land",
     open: false,
 
     img: people03,
