@@ -3,12 +3,12 @@ import { forestAKudzu, forestBKudzu, arrow } from "../assets";
 import Modal from "./Modal";
 
 const KudzuPhotoes = () => {
-    let title = "11111";
-    let content = "11111";
+    let title = "Healthy Forest";
+    let content = "In this forest there is no kudzu which is interupting over 6 million acres of land which gradually increase the amount of organisms in forest";
     const [show, setShow] = useState(false);
 
-    let title2 = "2222";
-    let content2 = "2222";
+    let title2 = "Unhealthy Forest(has kudzu)";
+    let content2 = "In this forest kudzu invaded most of the area. The reason kudzu is such a large problem is that when it grows, it grows over the plants which blocks them the way to the sunlight and prevents plant from proceeding photosynthesis which is crucial for them to make glucose and survive";
     const [show1, setShow1] = useState(false);
 
     const OnClickPhotoes = (num) => {
